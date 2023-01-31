@@ -1,2 +1,2 @@
-# projecteuler
-Solution of the https://projecteuler.net/archives
+# ProjectEuler
+Solution of https://projecteuler.net/archives
